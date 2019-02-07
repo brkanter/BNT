@@ -1,0 +1,5 @@
+Code from "Pyramidal and Stellate Cell Specificity of Grid and Border Representations in Layer 2 of Medial Entorhinal Cortex"
+Qiusong Tang, Andrea Burgalossi, Christian Laut Ebbesen, Saikat Ray, Robert Naumann, Helene Schmidt, Dominik Spicher, and Michael Brecht
+
+doi:  10.1016/j.neuron.2014.11.009
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4276741/

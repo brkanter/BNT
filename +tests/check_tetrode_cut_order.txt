@@ -1,0 +1,477 @@
+Session N:\alumni\giocomo\Rats\Pippen\2103201101
+Session N:\alumni\giocomo\Rats\Pippen\2103201102
+Cut N:\alumni\giocomo\Rats\Pippen\2103201101_7_LG.cut
+Room room10
+Shape Box 150
+Tetrode 7
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\3103201103
+Session N:\alumni\giocomo\Rats\Pippen\3103201104
+Cut N:\alumni\giocomo\Rats\Pippen\3103201103_7_Mati.cut
+Room room10
+Shape Box 150
+Tetrode 7
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\2103201103
+Session N:\alumni\giocomo\Rats\Pippen\2103201104
+Cut N:\alumni\giocomo\Rats\Pippen\2103201103_6_LG.cut
+Room room10
+Shape Box 150
+Tetrode 6
+Unit 2
+---
+Session N:\alumni\giocomo\Rats\Pippen\2103201103
+Session N:\alumni\giocomo\Rats\Pippen\2103201104
+Cut N:\alumni\giocomo\Rats\Pippen\2103201103_6_LG.cut
+Room room10
+Shape Box 150
+Tetrode 6
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\0504201101
+Session N:\alumni\giocomo\Rats\Pippen\0504201102
+Cut N:\alumni\giocomo\Rats\Pippen\0504201101_5_Mati.cut
+Room room10
+Shape Box 150
+Tetrode 5
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\2103201103
+Session N:\alumni\giocomo\Rats\Pippen\2103201104
+Cut N:\alumni\giocomo\Rats\Pippen\2103201103_8_Mati.cut
+Room room10
+Shape Box 150
+Tetrode 8
+Unit 2
+---
+Session N:\alumni\giocomo\Rats\Pippen\2103201103
+Session N:\alumni\giocomo\Rats\Pippen\2103201104
+Cut N:\alumni\giocomo\Rats\Pippen\2103201103_8_Mati.cut
+Room room10
+Shape Box 150
+Tetrode 8
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\2203201101
+Session N:\alumni\giocomo\Rats\Pippen\2203201102
+Cut N:\alumni\giocomo\Rats\Pippen\2203201101_6_Mati.cut
+Room room10
+Shape Box 150
+Tetrode 6
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\2103201103
+Session N:\alumni\giocomo\Rats\Pippen\2103201104
+Cut N:\alumni\giocomo\Rats\Pippen\2103201103_6_LG.cut
+Room room10
+Shape Box 150
+Tetrode 6
+Unit 3
+---
+Session N:\alumni\giocomo\Rats\Pippen\0604201103
+Session N:\alumni\giocomo\Rats\Pippen\0604201104
+Cut N:\alumni\giocomo\Rats\Pippen\0604201103_6_Mati.cut
+Room room10
+Shape Box 150
+Tetrode 6
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\0504201101
+Session N:\alumni\giocomo\Rats\Pippen\0504201102
+Cut N:\alumni\giocomo\Rats\Pippen\0504201101_6LG.cut
+Room room10
+Shape Box 150
+Tetrode 6
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\2303201104
+Session N:\alumni\giocomo\Rats\Pippen\2303201105
+Cut N:\alumni\giocomo\Rats\Pippen\2303201104_6.cut
+Room room10
+Shape Box 150
+Tetrode 6
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\2803201101
+Session N:\alumni\giocomo\Rats\Pippen\2803201102
+Cut N:\alumni\giocomo\Rats\Pippen\2803201101_8_Mati.cut
+Room room10
+Shape Box 150
+Tetrode 8
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\16051101
+Session N:\alumni\giocomo\Rats\Pippen\16051102
+Cut N:\alumni\giocomo\Rats\Pippen\16051101_2.cut
+Room room10
+Shape Box 150
+Tetrode 2
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\0404201101
+Session N:\alumni\giocomo\Rats\Pippen\0404201102
+Cut N:\alumni\giocomo\Rats\Pippen\0404201101_7_Mati.cut
+Room room10
+Shape Box 150
+Tetrode 7
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\1204201101
+Session N:\alumni\giocomo\Rats\Pippen\1204201102
+Cut N:\alumni\giocomo\Rats\Pippen\1204201101_7_Mati.cut
+Room room10
+Shape Box 150
+Tetrode 7
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\1204201104
+Session N:\alumni\giocomo\Rats\Pippen\1204201105
+Cut N:\alumni\giocomo\Rats\Pippen\1204201104_6_Mati.cut
+Room room10
+Shape Box 150
+Tetrode 6
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\1804201101
+Session N:\alumni\giocomo\Rats\Pippen\1804201102
+Cut N:\alumni\giocomo\Rats\Pippen\1804201101_7_Mati.cut
+Room room10
+Shape Box 150
+Tetrode 7
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\0606201102
+Session N:\alumni\giocomo\Rats\Pippen\0606201101
+Cut N:\alumni\giocomo\Rats\Pippen\0606201102_6.cut
+Room room10
+Shape Box 150
+Tetrode 6
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\2004201101
+Session N:\alumni\giocomo\Rats\Pippen\2004201102
+Cut N:\alumni\giocomo\Rats\Pippen\2004201101_7_Mati.cut
+Room room10
+Shape Box 150
+Tetrode 7
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\06081102
+Session N:\alumni\giocomo\Rats\Pippen\06081101
+Cut N:\alumni\giocomo\Rats\Pippen\06081102_2.cut
+Tetrode 2
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\2004201101
+Session N:\alumni\giocomo\Rats\Pippen\2004201102
+Cut N:\alumni\giocomo\Rats\Pippen\2004201101_7_Mati.cut
+Room room10
+Shape Box 150
+Tetrode 7
+Unit 2
+---
+Session N:\alumni\giocomo\Rats\Pippen\20051101
+Session N:\alumni\giocomo\Rats\Pippen\20051102
+Cut N:\alumni\giocomo\Rats\Pippen\20051101_4.cut
+Room room10
+Shape Box 150
+Tetrode 4
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\1504201101
+Session N:\alumni\giocomo\Rats\Pippen\1504201102
+Cut N:\alumni\giocomo\Rats\Pippen\1504201101_5_Mati.cut
+Room room10
+Shape Box 150
+Tetrode 5
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\18051101
+Session N:\alumni\giocomo\Rats\Pippen\18051102
+Cut N:\alumni\giocomo\Rats\Pippen\18051101_4.cut
+Room room10
+Shape Box 150
+Tetrode 4
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\1904201101
+Session N:\alumni\giocomo\Rats\Pippen\1904201102
+Cut N:\alumni\giocomo\Rats\Pippen\1904201101_5_Mati.cut
+Room room10
+Shape Box 150
+Tetrode 5
+Unit 2
+---
+Session N:\alumni\giocomo\Rats\Pippen\04051101
+Session N:\alumni\giocomo\Rats\Pippen\04051102
+Cut N:\alumni\giocomo\Rats\Pippen\04051101_8.cut
+Room room10
+Shape Box 150
+Tetrode 8
+Unit 2
+---
+Session N:\alumni\giocomo\Rats\Pippen\0606201102
+Session N:\alumni\giocomo\Rats\Pippen\0606201101
+Cut N:\alumni\giocomo\Rats\Pippen\0606201102_5.cut
+Room room10
+Shape Box 150
+Tetrode 5
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\280420112
+Session N:\alumni\giocomo\Rats\Pippen\280420113
+Cut N:\alumni\giocomo\Rats\Pippen\280420112_5_Mati.cut
+Room room10
+Shape Box 150
+Tetrode 5
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\2604201101
+Session N:\alumni\giocomo\Rats\Pippen\2604201102
+Cut N:\alumni\giocomo\Rats\Pippen\2604201101_5_Mati.cut
+Room room10
+Shape Box 150
+Tetrode 5
+Unit 2
+---
+Session N:\alumni\giocomo\Rats\Pippen\04051101
+Session N:\alumni\giocomo\Rats\Pippen\04051102
+Cut N:\alumni\giocomo\Rats\Pippen\04051101_7.cut
+Room room10
+Shape Box 150
+Tetrode 7
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\04051101
+Session N:\alumni\giocomo\Rats\Pippen\04051102
+Cut N:\alumni\giocomo\Rats\Pippen\04051101_8.cut
+Room room10
+Shape Box 150
+Tetrode 8
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\14061102
+Session N:\alumni\giocomo\Rats\Pippen\14061101
+Cut N:\alumni\giocomo\Rats\Pippen\14061102_2.cut
+Room room10
+Shape Box 150
+Tetrode 2
+Unit 2
+---
+Session N:\alumni\giocomo\Rats\Pippen\10051101
+Session N:\alumni\giocomo\Rats\Pippen\10051102
+Cut N:\alumni\giocomo\Rats\Pippen\10051101_5.cut
+Room room10
+Shape Box 150
+Tetrode 5
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\16051101
+Session N:\alumni\giocomo\Rats\Pippen\16051102
+Cut N:\alumni\giocomo\Rats\Pippen\16051101_7.cut
+Room room10
+Shape Box 150
+Tetrode 7
+Unit 2
+---
+Session N:\alumni\giocomo\Rats\Pippen\16051101
+Session N:\alumni\giocomo\Rats\Pippen\16051102
+Cut N:\alumni\giocomo\Rats\Pippen\16051101_5.cut
+Room room10
+Shape Box 150
+Tetrode 5
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\12051101
+Session N:\alumni\giocomo\Rats\Pippen\12051102
+Cut N:\alumni\giocomo\Rats\Pippen\12051101_7.cut
+Room room10
+Shape Box 150
+Tetrode 7
+Unit 2
+---
+Session N:\alumni\giocomo\Rats\Pippen\18071102
+Session N:\alumni\giocomo\Rats\Pippen\18071101
+Cut N:\alumni\giocomo\Rats\Pippen\18071102_3.cut
+Room room10
+Shape Box 150
+Tetrode 3
+Unit 2
+---
+Session N:\alumni\giocomo\Rats\Pippen\10051101
+Session N:\alumni\giocomo\Rats\Pippen\10051102
+Cut N:\alumni\giocomo\Rats\Pippen\10051101_7.cut
+Room room10
+Shape Box 150
+Tetrode 7
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\13051101
+Session N:\alumni\giocomo\Rats\Pippen\13051102
+Cut N:\alumni\giocomo\Rats\Pippen\13051101_6.cut
+Room room10
+Shape Box 150
+Tetrode 6
+Unit 2
+---
+Session N:\alumni\giocomo\Rats\Pippen\0701102
+Session N:\alumni\giocomo\Rats\Pippen\0701101
+Cut N:\alumni\giocomo\Rats\Pippen\0701102_3.cut
+Room room10
+Shape Box 150
+Tetrode 3
+Unit 2
+---
+Session N:\alumni\giocomo\Rats\Pippen\18071102
+Session N:\alumni\giocomo\Rats\Pippen\18071101
+Cut N:\alumni\giocomo\Rats\Pippen\18071102_2.cut
+Room room10
+Shape Box 150
+Tetrode 2
+Unit 2
+---
+Session N:\alumni\giocomo\Rats\Pippen\06071102
+Session N:\alumni\giocomo\Rats\Pippen\06071101
+Cut N:\alumni\giocomo\Rats\Pippen\06071102_3.cut
+Room room10
+Shape Box 150
+Tetrode 3
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\10051101
+Session N:\alumni\giocomo\Rats\Pippen\10051102
+Cut N:\alumni\giocomo\Rats\Pippen\10051101_6.cut
+Room room10
+Shape Box 150
+Tetrode 6
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\19051101
+Session N:\alumni\giocomo\Rats\Pippen\19051102
+Cut N:\alumni\giocomo\Rats\Pippen\19051101_6.cut
+Room room10
+Shape Box 150
+Tetrode 6
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\06081102
+Session N:\alumni\giocomo\Rats\Pippen\06081101
+Cut N:\alumni\giocomo\Rats\Pippen\06081102_6.cut
+Room room10
+Shape Box 150
+Tetrode 6
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\0606201102
+Session N:\alumni\giocomo\Rats\Pippen\0606201101
+Cut N:\alumni\giocomo\Rats\Pippen\0606201102_3.cut
+Room room10
+Shape Box 150
+Tetrode 3
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\11071102
+Session N:\alumni\giocomo\Rats\Pippen\11071101
+Cut N:\alumni\giocomo\Rats\Pippen\11071102_7.cut
+Room room10
+Shape Box 150
+Tetrode 7
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\11071102
+Session N:\alumni\giocomo\Rats\Pippen\11071101
+Cut N:\alumni\giocomo\Rats\Pippen\11071102_7.cut
+Room room10
+Shape Box 150
+Tetrode 7
+Unit 2
+---
+Session N:\alumni\giocomo\Rats\Pippen\0606201102
+Session N:\alumni\giocomo\Rats\Pippen\0606201101
+Cut N:\alumni\giocomo\Rats\Pippen\0606201102_2.cut
+Room room10
+Shape Box 150
+Tetrode 2
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\05071102
+Session N:\alumni\giocomo\Rats\Pippen\05071101
+Cut N:\alumni\giocomo\Rats\Pippen\05071102_5.cut
+Room room10
+Shape Box 150
+Tetrode 5
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\04051101
+Session N:\alumni\giocomo\Rats\Pippen\04051102
+Cut N:\alumni\giocomo\Rats\Pippen\04051101_2.cut
+Room room10
+Shape Box 150
+Tetrode 2
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\05051101
+Session N:\alumni\giocomo\Rats\Pippen\05051102
+Cut N:\alumni\giocomo\Rats\Pippen\05051101_2.cut
+Room room10
+Shape Box 150
+Tetrode 2
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\06051101
+Session N:\alumni\giocomo\Rats\Pippen\06051102
+Cut N:\alumni\giocomo\Rats\Pippen\06051101_4.cut
+Room room10
+Shape Box 150
+Tetrode 4
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\10051101
+Session N:\alumni\giocomo\Rats\Pippen\10051102
+Cut N:\alumni\giocomo\Rats\Pippen\10051101_4.cut
+Room room10
+Shape Box 150
+Tetrode 4
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\11051101
+Session N:\alumni\giocomo\Rats\Pippen\11051102
+Cut N:\alumni\giocomo\Rats\Pippen\11051101_4.cut
+Room room10
+Shape Box 150
+Tetrode 4
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\11051101
+Session N:\alumni\giocomo\Rats\Pippen\11051102
+Cut N:\alumni\giocomo\Rats\Pippen\11051101_2.cut
+Room room10
+Shape Box 150
+Tetrode 2
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\12051101
+Session N:\alumni\giocomo\Rats\Pippen\12051102
+Cut N:\alumni\giocomo\Rats\Pippen\12051101_4.cut
+Room room10
+Shape Box 150
+Tetrode 4
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\12051101
+Session N:\alumni\giocomo\Rats\Pippen\12051102
+Cut N:\alumni\giocomo\Rats\Pippen\12051101_2.cut
+Room room10
+Shape Box 150
+Tetrode 2
+Unit 2
+---
+Session N:\alumni\giocomo\Rats\Pippen\12051101
+Session N:\alumni\giocomo\Rats\Pippen\12051102
+Cut N:\alumni\giocomo\Rats\Pippen\12051101_1.cut
+Room room10
+Shape Box 150
+Tetrode 1
+Unit 1

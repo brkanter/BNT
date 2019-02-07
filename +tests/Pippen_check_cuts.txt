@@ -1,0 +1,32 @@
+Session N:\alumni\giocomo\Rats\Pippen\04051101
+Session N:\alumni\giocomo\Rats\Pippen\04051102
+Cut N:\alumni\giocomo\Rats\Pippen\04051101_2.cut
+Room room10
+Shape Box 150
+Tetrode 2
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\04051101
+Session N:\alumni\giocomo\Rats\Pippen\04051102
+Cut N:\alumni\giocomo\Rats\Pippen\04051101_8.cut
+Room room10
+Shape Box 150
+Tetrode 8
+Unit 2
+---
+Session N:\alumni\giocomo\Rats\Pippen\04051101
+Session N:\alumni\giocomo\Rats\Pippen\04051102
+Cut N:\alumni\giocomo\Rats\Pippen\04051101_7.cut
+Room room10
+Shape Box 150
+Tetrode 7
+Unit 1
+---
+Session N:\alumni\giocomo\Rats\Pippen\04051101
+Session N:\alumni\giocomo\Rats\Pippen\04051102
+Cut N:\alumni\giocomo\Rats\Pippen\04051101_8.cut
+Room room10
+Shape Box 150
+Tetrode 8
+Unit 1
+---

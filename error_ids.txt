@@ -1,0 +1,52 @@
+List of error/warning messages
+==============================
+
+* error('BNT:arg', 'Incorrect argument ''pos'' (type ''help <a href="matlab:help general.groupByTime">general.groupByTime</a>'' for details).');
+* error('BNT:args:notChar', 'Argument is not a string.')
+* error('BNT:args:length', 'Argument can not exceed 4 characters (default ''TLBR'')');
+* error('BNT:args:noValidChars', 'There is no information about the walls in the argument.');
+* error('BNT:deprecated', 'This function is deprecated');
+* error('BNT:noUnits', 'There are no units assigned with trial %u (first session ''%s'').\nCheck your input file!', i, gBntData{i}.sessions{1});
+* error('BNT:noDataFolder', 'Can not find specified data folder. Check that it is written correctly. Your input:\n\t%s', baseFolder);
+* error('BNT:noData', 'Failed to find data in folder ''%s''', dataFolder);
+* error('BNT:numArgs', 'Incorrect number of parameters (type ''help <a href="matlab:help analyses.map">analyses.map</a>'' for details).');
+* error('BNT:err:dimensions', 'Only rectangular maps with width longer than height are supported!');
+* error('BNT:noHeader', 'There is no header in input file');
+* error('BNT:inputFormat', 'Unknown format of input file');
+* error('BNT:badShape', 'Failed to parse shape information (trial #%u). Must be box, cylinder, circle or track', numTrials);
+* error('BNT:badCuts', 'Found no cut information in the input file. Check your input file.');
+* error('BNT:emptyFile', 'Your input file is empty!');
+* error('BNT:badArenaBound', 'Failed to extract arena bounds from provided information (%s).\nCheck that all LEDs were visible.', recording);
+* error('BNT:io:axonaSpikeFormat', 'Unsupported format of Axona spike file. Expect to have %s, but got %s.', supportedFormat, fileHeader.spike_format);
+* error('BNT:io:axonaSpikeHeader', 'No spike format reported, cannot read spikes from %s\nAre you sure this is a spike file?', filename);
+* error('BNT:io:axonaPosFormat', 'Unsupported format of Axona position file. Only files with 4 byte timestamps are supported. File %s has %u bytes', filename, bytesPerTimestamp);
+* error('BNT:noFile', 'Failed to find specified file ''%s''.\nPlease check that the name/path is correct.', filename);
+* error('BNT:notLoaded', 'You should load some data first.');
+* error('BNT:unsupported', '');
+* error('BNT:io:cutAmbiguity')
+
+* warning('BNT:badTimestamps', 'Some timestamps of position samples are incorrect. Will remove them. values of timestamps should increase monotonically.')
+* warning('BNT:cutLengthInvalid', msg);
+* warning('BNT:deprecated:first', 'This function is deprecated and will be unavailable from %s', datestr(deprecetadDate));
+* warning('BNT:earlySpike', 'Data contains %u spike times that are earlier than first position timestamp. These spikes will be removed.', length(find(toRemove)));
+* warning('BNT:lateSpike', 'Data contains %u spike times that occur after the last position timestamp. These spikes will be removed.', length(find(toRemove)));
+* warning('BNT:noCutFile', 'Failed to find cut file for tetrode %d, session %s.', tetrodes(t), sessionName);
+* warning('BNT:notRadians', 'Angles are neither in [0,2pi] nor in [-pi,pi] (make sure they are in radians).');
+* warning('BNT:noSpikes', 'There are no spikes for session %s', gBntData{trialNum}.basename);
+* warning('BNT:numFields', 'Not enough inner fields has been found. Can''t calculate grid properties');
+* warning('BNT:paramsDiff', [errMsg 'Check file %s for meaning of these fields.'], bntSettingsFile);
+* warning('BNT:positionInQuestion', 'Seems that the interpolation of position samples have failed. Will proceed without the interpolation');
+* warning('BNT:screenVariables', 'Unknown screening keywords %s', str);
+* warning('BNT:spikeZeros', 'There are spike timestamps that have value of 0! This is very suspicious!');
+* warning('BNT:updateFailed', 'Failed to autoupdate BNT');
+* warning('BNT:warn:identicalUnits', 'You are trying to load identical tetrodes with different cut files. This is not supported! Will skip current trial.');
+* warning('BNT:loadEeg', 'Unable to locate the same set of EEG signals for the combined sessions.');
+* warning('BNT:multipleUnits', 'Your input file contains multiple Units key-word for a single trial (trial #%u). You should use only one. The very first is going to be used.', numTrials);
+* warning('BNT:multipleShape', 'Your input file contains multiple Shape key-word for a single trial (trial #%u). You should use only one. The very first is going to be used.', numTrials);
+* warning('BNT:mapsSize', 'Maps are of different size. This is suspicious. Correlation won''t be calculated');
+* warning('BNT:noXPDF', 'Failed to find XPDF. Figure exporting might be broken.');
+* warning('BNT:io:axonaSpikeFile', '%d spikes reported in header, but %s seems to contain %d spikes.', numSpikes, filename, numSpikesInFile);
+* warning('BNT:io:timestamps', '')
+* warning('BNT:io:cutAmbiguity', 'Found more than one possible cut file for cell T%uC%u (first one will be used), session %s.\nList of found cuts:\n%s', tetrodeCells(c, :), sessionData.sessions{s}, allCuts);
+* warning('BNT:tetrodeDetectin', 'Tried to detect NeuraLynx tetrodes, but found none. Check your input file and data. You probably should not use Units autodetection.');
+* warning('BNT:multipleCutApps', 'Seems like files from multiple cut applications are present in the current trial folder. Check that everything loaded correctly.\nPath: %s\nTrial:%s\n');

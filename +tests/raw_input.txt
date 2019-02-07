@@ -1,0 +1,8 @@
+Session N:\alumni\giocomo\Rats\Pippen\2103201101
+Session N:\alumni\giocomo\Rats\Pippen\2103201102
+Cut N:\alumni\giocomo\Rats\Pippen\2103201101_7_LG.cut
+Room room10
+Shape Box 150
+Tetrode 7
+Unit 1
+---

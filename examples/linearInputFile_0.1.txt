@@ -1,0 +1,6 @@
+Name: linear track tale; version: 0.1
+TrackInfo N:\talelitl\Border\Data linear track\TrackPosition1
+DataFolder N:\talelitl\Border\Data linear track\17906\241112
+Units 7 1 2 3 4 5 7 8; 8 1
+TrackLength 200
+---

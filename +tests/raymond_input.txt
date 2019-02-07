@@ -1,0 +1,68 @@
+Session N:\alumni\giocomo\Rats\Pippen\2103201101
+Session N:\alumni\giocomo\Rats\Pippen\2103201102
+Cut N:\alumni\giocomo\Rats\Pippen\2103201101_7_LG.cut
+Room room10
+Shape Box 150
+Tetrode 7
+Unit 1
+Unit 2
+---
+Session N:\alumni\giocomo\Rats\Pippen\3103201103
+Session N:\alumni\giocomo\Rats\Pippen\3103201104
+Cut N:\alumni\giocomo\Rats\Pippen\3103201103_7_Mati.cut
+Room room10
+Shape Box 150
+Tetrode 7
+Unit 1
+---
+Session N:\archive\sargolin\11138\07040501
+Cut N:\archive\sargolin\11138\07040501_1.cut
+Room room10
+Shape Box 150
+Tetrode 1
+Unit 2
+---
+Session N:\archive\sargolin\11138\06040507
+Cut N:\archive\sargolin\11138\06040507_1.cut
+Room room10
+Shape Box 150
+Tetrode 1
+Unit 1
+---
+Session N:\archive\sargolin\11138\06040507
+Cut N:\archive\sargolin\11138\06040507_3.cut
+Room room10
+Shape Box 150
+Tetrode 3
+Unit 1
+---
+Session N:\kristfro\13388 - Rufus\07080901
+Session N:\kristfro\13388 - Rufus\07080902
+Session N:\kristfro\13388 - Rufus\07080903
+Session N:\kristfro\13388 - Rufus\07080904
+Cut N:\kristfro\13388 - Rufus\07080901_6.cut
+Room room10
+Shape Box 220
+Tetrode 6
+Unit 1
+---
+Session N:\kristfro\13388 - Rufus\15080901
+Session N:\kristfro\13388 - Rufus\15080902
+Session N:\kristfro\13388 - Rufus\15080903
+Session N:\kristfro\13388 - Rufus\15080904
+Cut N:\kristfro\13388 - Rufus\15080901_6LG.cut
+Room room10
+Shape Box 220
+Tetrode 6
+Unit 2
+---
+Session N:\kristfro\13388 - Rufus\15080901
+Session N:\kristfro\13388 - Rufus\15080902
+Session N:\kristfro\13388 - Rufus\15080903
+Session N:\kristfro\13388 - Rufus\15080904
+Cut N:\kristfro\13388 - Rufus\15080901_7.cut
+Room room10
+Shape Box 220
+Tetrode 7
+Unit 1
+---

@@ -1,0 +1,36 @@
+Session N:\archive\kjelstru\unit\11553\23060602
+Cut N:\archive\kjelstru\unit\11553\23060602_1.cut
+Session N:\archive\kjelstru\unit\11553\23060603
+Cut N:\archive\kjelstru\unit\11553\23060603_1.cut
+Length 1800
+tracking red LED
+Room mtfs-line
+Units
+Tetrode 1
+Unit 1
+---
+Session N:\archive\kjelstru\unit\11553\23060602
+Cut N:\archive\kjelstru\unit\11553\23060602_2.cut
+Session N:\archive\kjelstru\unit\11553\23060603
+Cut N:\archive\kjelstru\unit\11553\23060603_2.cut
+Length 1800
+tracking red LED
+Room mtfs-line
+Units
+Tetrode 2
+Unit 2
+Unit 3
+---
+Session N:\archive\kjelstru\unit\11553\23060602
+Cut N:\archive\kjelstru\unit\11553\23060602_5.cut
+Session N:\archive\kjelstru\unit\11553\23060603
+Cut N:\archive\kjelstru\unit\11553\23060603_5.cut
+Length 1800
+tracking red LED
+Room mtfs-line
+Units
+Tetrode 5
+Unit 1
+Unit 2
+Unit 3
+---

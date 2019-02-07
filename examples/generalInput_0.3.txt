@@ -1,0 +1,124 @@
+Name: general; Version: 0.3
+
+### Note that entries in this file are not necessary valid.
+### This file is made for illustration purposes.
+
+# Combined sessions with single tetrode and joint cut file:
+Sessions N:\archive\giocomo\Rats\Samwise\1504201101
+N:\archive\giocomo\Rats\Samwise\1504201102
+Cuts N:\archive\giocomo\Rats\Samwise\1504201101_8_Mati.cut
+Units 8 1;
+Shape Box 220
+
+# Single sessions, single tetrode, single cut file:
+Sessions N:\archive\haftingf\11265\02020601
+Cuts N:\archive\haftingf\11265\02020601_1.cut
+Units 1 1 3 5
+Shape Box 220
+
+###
+# Providing cut information for Axona.
+# You can omit cut information completely, if your cut file
+# follows the naming pattern <sessionName>_<tetrode>.cut.
+# The following trial is the same as the one above:
+Sessions N:\archive\haftingf\11265\02020601
+Units 1 1 3 5
+Shape Box 220
+
+# Again combined sessions, single tetrode, joint cut file
+Sessions N:\kristfro\13388 - Rufus\07080901
+N:\kristfro\13388 - Rufus\07080902
+N:\kristfro\13388 - Rufus\07080903
+N:\kristfro\13388 - Rufus\07080904
+Cuts N:\kristfro\13388 - Rufus\07080901_6.cut
+Units 6 1
+Shape Box 220
+
+# Single session, multiple tetrodes, single cut file per tetrode.
+# See how several units and cut files are specified.
+# Note the order in which they are provided. It's not important whether
+# you specify tetrodes as 4 3 2 or 2 3 4. Whatever you like.
+# But the order of cut files must match!
+Sessions N:\archive\haftingf\11265\01020602
+Units 4 2 3;
+3 4;
+2 1;
+Cuts N:\archive\haftingf\11265\01020602_4.cut;
+N:\archive\haftingf\11265\01020602_3.cut;
+N:\archive\haftingf\11265\01020602_2.cut;
+Shape Box 150
+
+###
+# Two sessions and two cut files. Note a comma between cut files per tetrode.
+#
+Sessions <dataFolder>\Linear track\17906\241112\24111201_200
+<dataFolder>\Linear track\17906\241112\24111202_200
+Units 7 1; 8 2;
+Cuts <dataFolder>\Linear track\17906\241112\24111201_200_7-single.cut, <dataFolder>\Linear track\17906\241112\24111202_200_7.cut;
+<dataFolder>\Linear track\17906\241112\24111201_200_8-single.cut, <dataFolder>\Linear track\17906\241112\24111202_200_8-single.cut
+Shape track 200
+
+###
+# Multiple sessions and multiple cut files, but some cuts are skipped.
+#
+Sessions <dataFolder>\Linear track\17906\241112\24111201_200
+<dataFolder>\Linear track\17906\241112\24111202_200
+<dataFolder>\Linear track\17906\241112\24111203_200
+<dataFolder>\Linear track\17906\241112\24111204_200
+Units 7 1
+Cuts <dataFolder>\Linear track\17906\241112\24111201_200_7-single.cut, <dataFolder>\Linear track\17906\241112\24111204_200_7.cut
+Shape track 200
+
+###
+# Providing cut information for NeyraLynx.
+# You have several options.
+# 1. Omit Cuts keyword completely. In this case I'll try to
+# search for cut files based on SC or TT naming pattern.
+# Examples of cut files that will be searched for:
+# SC1_2.t*, TT1_2.t*, TT1_02.t*
+Sessions N:\neuralynx-data\haftingf\11265
+Units 1 2 4
+Shape Box 150
+#
+# 2. Specify naming pattern (begin of the file name)
+# In this example script will search for files 'PP3_TT3_1.t*' and 'PP4_TT1_2.t*'
+Sessions F:\workspace\neuralynx\data\08. laser 10mW start To laser stop
+Cuts PP3_TT; PP4_TT;
+Units 3 1; 1 2;
+###
+
+###
+# Inheritance
+# Units and Shape information can be inhereted from previous sessions.
+# The following 3 trials will all have the same Units and Shape:
+Sessions N:\archive\haftingf\11265\02020601
+Units 1 1 3 5
+Shape Box 220
+Sessions N:\archive\haftingf\11265\02020602
+Sessions N:\archive\haftingf\11265\02020603
+# Simply provide Units or/and Shape to brake the inheritance
+Sessions N:\archive\haftingf\11265\02020605
+Units 2 5
+Shape Box 100
+###
+
+# Single session, single tetrode, but two cut files
+Sessions N:\archive\kristfro\13388 - Rufus\07080901
+Cuts N:\archive\kristfro\13388 - Rufus\07080901_6_part1.cut, N:\kristfro\13388 - Rufus\07080901_6_part2.cut;
+Units 6 1
+Shape Box 220
+
+# Combined sessions, multiple tetrodes, joint cut files per tetrode
+Sessions N:\data\21831\061120152
+N:\data\21831\061120153
+N:\data\21831\061120156
+Cuts N:\data\21831\061120152_2.cut, N:\data\21831\061120153_2.cut, N:\data\21831\061120156_2.cut;
+N:\data\21831\061120152_3.cut, N:\data\21831\061120153_3.cut, N:\data\21831\061120156_3.cut;
+N:\data\21831\061120152_4.cut, N:\data\21831\061120153_4.cut, N:\data\21831\061120156_4.cut;
+Units 2 1; 3 1; 4 1 2 5 6;
+Shape box 150
+
+# Rectangular shape
+Sessions N:\data\21831\061120152
+Units 2 1;
+Shape box 200 100

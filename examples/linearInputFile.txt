@@ -1,0 +1,49 @@
+Name: linear track tale; version: 0.3
+# This is the first experiment. It must start from TrackInfo keyword!
+#
+TrackInfo N:\talelitl\Linear track\TrackPosition1
+DataFolder N:\talelitl\Linear track\Data\18580\31011301
+Units 4 1
+
+# This is the second expetiment. The TrackInfo is not necessary.
+# If not provided, then last known TrackInfo will be used.
+# In this case, this means TrackInfo from the previous experiment.
+#
+DataFolder N:\talelitl\Linear track\Data\18440\241112
+Units 5 1
+
+###
+TrackInfo N:\talelitl\Linear track\TrackPosition1
+DataFolder N:\talelitl\Linear track\Data\18478\121212
+Units 5 2; 7 1;
+
+###
+DataFolder N:\talelitl\Linear track\Data\18580\240113
+Units 2 1
+
+###
+DataFolder N:\talelitl\Linear track\Data\18634\31011301
+Units 4 1
+
+###
+TrackInfo N:\talelitl\Linear track\TrackPosition2
+DataFolder N:\talelitl\Linear track\Data\22490\09051601
+Units 3 1 2 3; 4 1;
+
+###
+DataFolder N:\talelitl\Linear track\Data\22491\09051602
+Units 1 1 2; 3 1;
+
+###
+TrackInfo N:\talelitl\Linear track\TrackPosition1
+DataFolder N:\talelitl\Linear track\Data\18440\271112
+Units 6 1 2 4; 7 1
+
+###
+DataFolder N:\talelitl\Linear track\Data\18478\131212
+Units 5 1;
+
+###
+TrackInfo N:\talelitl\Linear track\TrackPosition2
+DataFolder N:\talelitl\Linear track\Data\22490\11051602
+Units 3 1;

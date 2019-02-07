@@ -1,0 +1,21 @@
+How to run tests
+================
+
+All test in a test suite:
+run(tests.ioTests.LoadSessionsTester)
+
+Run single test case:
+testCase = tests.ioTests.LoadSessionsTester;
+run(testCase, 'multipleCuts')
+
+
+
+Input Files
+
+1. check_tetrode_cut_order.txt This is a file in old (Raymond's) format. It contains combined sessions
+   with several tetrodes. It can be used to check that after data loading routins, the order of units
+   in new input file is the same as order of cuts.
+
+2. Pippen_check_cuts.txt This is a file in old (Raymond's) format. It contains combined sessions
+   with several tetrodes. One tetrode has two units. Unit descriptions are not successive. Use
+   this file to check that in the new input file there will be no additional cut files.

@@ -1,0 +1,28 @@
+Session N:\archive\haftingf\11265\01020602
+Cut N:\archive\haftingf\11265\01020602_1.cut
+Room room10
+Shape Box 150
+Tetrode 1
+Unit 2
+---
+Session N:\archive\haftingf\11265\01020602
+Cut N:\archive\haftingf\11265\01020602_1.cut
+Room room10
+Shape Box 150
+Tetrode 1
+Unit 4
+---
+Session N:\archive\haftingf\11265\01020602
+Cut N:\archive\haftingf\11265\01020602s_1.cut
+Room room10
+Shape Box 150
+Tetrode 1
+Unit 4
+---
+Session N:\archive\haftingf\11265\01020602
+Cut N:\archive\haftingf\11265\01020602_4.cut
+Room room10
+Shape Box 150
+Tetrode 4
+Unit 2
+---

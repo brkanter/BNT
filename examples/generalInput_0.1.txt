@@ -1,0 +1,61 @@
+Name: general; Version: 0.1
+Sessions N:\alumni\giocomo\Rats\Samwise\1504201101
+ N:\alumni\giocomo\Rats\Samwise\1504201102
+Cuts N:\alumni\giocomo\Rats\Samwise\1504201101_8_Mati.cut
+Units 8 1
+Room room10
+Shape Box 220
+---
+Sessions N:\archive\haftingf\11265\02020601
+Cuts N:\archive\haftingf\11265\02020601_1.cut
+Units 1 1 3 5
+Room room10
+Shape Box 220
+---
+Sessions N:\kristfro\13388 - Rufus\07080901
+ N:\kristfro\13388 - Rufus\07080902
+ N:\kristfro\13388 - Rufus\07080903
+ N:\kristfro\13388 - Rufus\07080904
+Cuts N:\kristfro\13388 - Rufus\07080901_6.cut
+Units 6 1
+Room room10
+Shape Box 220
+---
+Sessions N:\archive\haftingf\11265\03020601
+Cuts N:\archive\haftingf\11265\03020601_4.cut
+Units 4 2
+Room room10
+Shape Box 150
+---
+% Here check out how several units and cut files are specified.
+% Note the order in which they are provided. It's not important whether
+% you specify tetrodes as 4 3 2 or 2 3 4. Whatever you like. But the
+% order of cut files must match.
+Sessions N:\archive\haftingf\11265\01020602
+Cuts N:\archive\haftingf\11265\01020602_4.cut;
+ N:\archive\haftingf\11265\01020602_3.cut;
+ N:\archive\haftingf\11265\01020602_2.cut;
+Units 4 2 3;
+ 3 4;
+ 2 1;
+Room room10
+Shape Box 150
+---
+% For NeuraLynx you have several options.
+% 1. Omit Cuts keyword completely. In this case I'll try to
+% search for cut files based on SC or TT naming pattern.
+Sessions N:\neuralynx-data\haftingf\11265\01020602
+Units 1 2 4
+Room room10
+Shape Box 150
+---
+% 1. Specify naming pattern (begin of the file name)
+% In this example will search for files 'PP3_TT3_1.t' and 'PP4_TT1_2.t'
+Sessions F:\workspace\neuralynx\data\08. laser 10mW start To laser stop
+Cuts PP3_TT; PP4_TT;
+Units 3 1; 1 2;
+---
+Sessions N:\kristfro\13388 - Rufus\07080901
+Cuts N:\kristfro\13388 - Rufus\07080901_6_part1.cut, N:\kristfro\13388 - Rufus\07080901_6_part2.cut
+Units 6 1
+Shape Box 220
