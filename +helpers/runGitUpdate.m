@@ -36,6 +36,9 @@
 %   updated     Flag that indicated whether an update has been successful or not.
 %
 function updated = runGitUpdate(repoName, repoPath, force)
+    
+    return % BRK: disable auto-updates
+    
     if nargin < 1
         repoName = 'BNT';
     end

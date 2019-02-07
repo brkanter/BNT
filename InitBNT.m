@@ -118,7 +118,7 @@ function updated = InitBNT(varargin)
             end
             updated = updated || updatedScripts;
         catch exc %#ok<NASGU>
-            warning('BNT:updateFailed', 'Failed to autoupdate BNT');
+%             warning('BNT:updateFailed', 'Failed to autoupdate BNT');
         end
         % make sure that externals are still there
         addExternals(extFolder, externals);        
@@ -142,7 +142,7 @@ function updated = InitBNT(varargin)
         end
         updated = updated || updatedScripts;
     catch exc %#ok<NASGU>
-        warning('BNT:updateFailed', 'Failed to autoupdate BNT');
+%         warning('BNT:updateFailed', 'Failed to autoupdate BNT');
     end
 
     % Let's be sure XPDF is there

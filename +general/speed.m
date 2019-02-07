@@ -70,16 +70,16 @@ function v = speed(pos)
             v(end, 2) = v(end-1, 2);
         end
     else
-        v_x = smooth(dx ./ dt, filterSpan, 'lowess');
-        v_y = smooth(dy ./ dt, filterSpan, 'lowess');
+        v_x = smooth(dx ./ dt, filterSpan, 'moving');
+        v_y = smooth(dy ./ dt, filterSpan, 'moving');
         tmpV = sqrt(v_x.^2 + v_y.^2);
         tmpV(end+1) = tmpV(end);
         v(:, 1) = tmpV;
         if numLeds > 1
             dx = diffs(:, bntConstants.PosX2);
             dy = diffs(:, bntConstants.PosY2);
-            v_x = smooth(dx ./ dt, filterSpan, 'lowess');
-            v_y = smooth(dy ./ dt, filterSpan, 'lowess');
+            v_x = smooth(dx ./ dt, filterSpan, 'moving');
+            v_y = smooth(dy ./ dt, filterSpan, 'moving');
             tmpV = sqrt(v_x.^2 + v_y.^2);
             tmpV(end+1) = tmpV(end);
             v(:, 2) = tmpV;
