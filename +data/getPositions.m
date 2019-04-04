@@ -386,7 +386,24 @@ function positions = getPositions(varargin)
                 yIdx = bntConstants.PosY2;
 
 %                 positions(sessionInd, xIdx) = medfilt1(positions(sessionInd, xIdx), 9);
-%                 positions(sessionInd, yIdx) = medfilt1(positions(sessionInd, yIdx), 9);
+%                 positions(sessionInd, yIdx) = medfilt1(positions(sessionInd, yIdx), 9); 
+    
+                % BRK 4-4-19: exclude green points outside red bounding box
+                % to help with head-direction calcuation
+                lim1 = nanmin(positions(sessionInd,bntConstants.PosX));
+                lim2 = nanmax(positions(sessionInd,bntConstants.PosX));
+                lim3 = nanmin(positions(sessionInd,bntConstants.PosY));
+                lim4 = nanmax(positions(sessionInd,bntConstants.PosY));
+                tmpPosX = positions(sessionInd,xIdx);
+                tmpPosY = positions(sessionInd,yIdx);
+                ex1 = tmpPosX < lim1-3 | tmpPosX > lim2+3; % add 3pts as buffer
+                ex2 = tmpPosY < lim3-3 | tmpPosY > lim4+3;
+                tmpPosX(ex1 | ex2) = nan;
+                tmpPosY(ex1 | ex2) = nan;
+                positions(sessionInd,xIdx) = tmpPosX;
+                positions(sessionInd,yIdx) = tmpPosY;                
+                %
+                
                 [positions(sessionInd, xIdx), positions(sessionInd, yIdx)] = general.removePosJumps(positions(sessionInd, xIdx), positions(sessionInd, yIdx), p.distanceThreshold, p.posStdThreshold);
 
                 positions(sessionInd, xIdx) = helpers.fixIsolatedData(positions(sessionInd, xIdx));
