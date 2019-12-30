@@ -41,7 +41,7 @@ function [information, sparsity, selectivity] = mapStatsPDF(map)
     else
        selectivity = maxrate / meanrate;
        logArg = map.z / meanrate;
-       logArg(logArg < 1) = 1;
+       logArg(logArg == 0) = 1;
        
        information.rate = nansum(nansum(posPDF .* map.z .* log2(logArg)));
        information.content = information.rate / meanrate;
